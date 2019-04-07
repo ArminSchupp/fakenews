@@ -1,3 +1,17 @@
+## True or untrue that's the question
+
+In addition, it should be clear that this is not a fundamental protection against any kind of false report. On the one hand, such a block list can never be 100% complete and on the other hand, many false reports are spread without a source via Twitter, Facebook and other social media sites. Even serious news sites don't always report the truth (but at least correct it afterwards if something turns out to be untrue). The most important thing is still to question all reports and if necessary to get an objective picture of the news situation with the help of alternative sources.
+
+If the fake news filter is activated, you can no longer access the pages listed in the block list. This makes it much clearer if you want to check explosive news quickly for their truth content before you spread them e.g. in social networks and are therefore even misused for propaganda purposes.
+
+Don't be fooled - use the fake news filter today.
+
+Furthermore a fake-news free surfing experience.
+
+## The decision about what is true or untrue must also be reviewed by you
+
+- - -
+
 # 🙈 fakenews
 An in-progress collection of fake news outlets. Currently blocking 669 untrustworthy sites.
 
